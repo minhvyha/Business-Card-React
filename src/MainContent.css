@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 320px;
+    background-color: #1A1B21;
+}
+
+.img-container{
+    width: 100%;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-img{
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    object-position: 50% 20%
+}
+.name{
+    margin-top: 1rem;
+}
+.sub-container{
+    padding: 0 1.5rem;
+}
