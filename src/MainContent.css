@@ -97,11 +97,22 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 1rem;
+    background-color: #161619;
+    padding: 1.2rem 0;
 }
 .youtube{
     width: 30px;
     color: white;
 }
 .leet{
-    width: 26px;
+    width: 28px;
+}
+.facebook{
+    width: 28px;
+}
+a{
+    display: flex;
+    align-items: center;
+
 }
