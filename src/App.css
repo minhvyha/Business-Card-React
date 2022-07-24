@@ -10,3 +10,10 @@
   background-color: #23252C;
   border-radius: .7rem;
 }
+
+@media screen and (max-width:500px) {
+ #root{
+  margin: 0;
+  padding: .5rem;
+ }
+}

@@ -116,3 +116,58 @@ a{
     align-items: center;
 
 }
+
+@media only screen and (min-width: 0px) {
+    .main-img{
+        height: 180px;
+    }
+}
+@media only screen and (min-width: 300px) {
+    .main-img{
+        height: 220px;
+    }
+}
+@media only screen and (min-width: 350px) {
+    .main-img{
+        height: 260px;
+    }
+}
+@media only screen and (min-width: 420px) {
+    .main-img{
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .main-container{
+        width: 85vw;
+        padding: 1.5rem 2rem;
+    }
+    .container{
+        width: 100%;
+    }
+    .name{
+        font-size: 20px;
+    }
+    .role{
+        font-size: 11.5px;
+    }
+    .web{
+        font-size: 10.5px;
+    }
+    .connect{
+        flex-direction: column;
+    }
+    .about h3{
+        font-size: 1rem;
+    }
+    .about p {
+        font-size: 12px;
+    }
+    .interest h3{
+        font-size: 1rem;
+    }
+    .interest p {
+        font-size: 12px;
+    }
+}
