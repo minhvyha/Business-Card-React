@@ -1,7 +1,7 @@
 # React - Business Card
 ## [Watch it on youtube]()
 ## [Live Demo](https://mybusinesscard-react.netlify.app/)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11b3cd00-91a2-4c23-a560-6870a0d49bce/deploy-status)](https://app.netlify.com/sites/mybusinesscard-react/deploys)
 
 
 
