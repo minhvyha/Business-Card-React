@@ -8,7 +8,6 @@ import mail from './assets/Mail.svg'
 import youtube from './assets/youtube.svg'
 
 export default function MainContent(){
-    console.log(me)
     return (
         <>
             <div className='container'>
